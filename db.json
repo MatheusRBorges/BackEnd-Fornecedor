@@ -1,0 +1,22 @@
+{
+  "fornecedor": [
+    {
+      "id": 2,
+      "name": "José Antunes",
+      "email": "jose@gmail.com",
+      "celular": "11111"
+    },
+    {
+      "id": 3,
+      "name": "Fernanda Souza ",
+      "email": "fernanda@gmail.com",
+      "celular": "222222222"
+    },
+    {
+      "id": 4,
+      "name": "Marcos Felipe ",
+      "email": "marcosfelipecruz123@gmail.com",
+      "celular": "3333333333"
+    }
+  ]
+}
