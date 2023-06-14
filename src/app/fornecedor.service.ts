@@ -7,7 +7,7 @@ import { Fornecedor } from './fornecedor';
   providedIn: 'root'
 })
 export class FornecedorService {
-  url = "http://localhost:8080/fornecedor";
+  url = "http://localhost:8080/suppliers";
   constructor(private  http : HttpClient) { }
 
 
